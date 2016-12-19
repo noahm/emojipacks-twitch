@@ -1,5 +1,7 @@
 require File.expand_path('../lib/emojipacks_twitch', __FILE__)
 
+task :default => [:build_global]
+
 task :build do
   EmojipacksTwitch.build
 end
