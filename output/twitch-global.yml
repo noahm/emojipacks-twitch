@@ -121,6 +121,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/46881/1.0
 - name: imglitch
   src: https://static-cdn.jtvnw.net/emoticons/v1/112290/1.0
+- name: itsboshytime
+  src: https://static-cdn.jtvnw.net/emoticons/v1/133468/1.0
 - name: jebaited
   src: https://static-cdn.jtvnw.net/emoticons/v1/114836/1.0
 - name: jkanstyle
@@ -128,7 +130,7 @@ emojis:
 - name: joncarnage
   src: https://static-cdn.jtvnw.net/emoticons/v1/26/1.0
 - name: kapow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/9803/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/133537/1.0
 - name: kappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/25/1.0
 - name: kappaclaus
@@ -241,16 +243,12 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/62833/1.0
 - name: ritzmitz
   src: https://static-cdn.jtvnw.net/emoticons/v1/4338/1.0
+- name: rlytho
+  src: https://static-cdn.jtvnw.net/emoticons/v1/134256/1.0
 - name: rulefive
   src: https://static-cdn.jtvnw.net/emoticons/v1/107030/1.0
 - name: seemsgood
   src: https://static-cdn.jtvnw.net/emoticons/v1/64138/1.0
-- name: sglemon
-  src: https://static-cdn.jtvnw.net/emoticons/v1/123329/1.0
-- name: sgmouth
-  src: https://static-cdn.jtvnw.net/emoticons/v1/123330/1.0
-- name: sgrasp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/123331/1.0
 - name: shadylulu
   src: https://static-cdn.jtvnw.net/emoticons/v1/52492/1.0
 - name: shazbotstix
@@ -262,7 +260,7 @@ emojis:
 - name: sobayed
   src: https://static-cdn.jtvnw.net/emoticons/v1/1906/1.0
 - name: soonerlater
-  src: https://static-cdn.jtvnw.net/emoticons/v1/355/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/134472/1.0
 - name: ssssss
   src: https://static-cdn.jtvnw.net/emoticons/v1/46/1.0
 - name: stinkycheese
@@ -304,13 +302,15 @@ emojis:
 - name: twitchraid
   src: https://static-cdn.jtvnw.net/emoticons/v1/62836/1.0
 - name: twitchrpg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/123669/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/131724/1.0
 - name: uleetbackup
   src: https://static-cdn.jtvnw.net/emoticons/v1/49/1.0
 - name: unclenox
   src: https://static-cdn.jtvnw.net/emoticons/v1/114856/1.0
 - name: unsane
   src: https://static-cdn.jtvnw.net/emoticons/v1/111792/1.0
+- name: uwot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/134255/1.0
 - name: vohiyo
   src: https://static-cdn.jtvnw.net/emoticons/v1/81274/1.0
 - name: votenay
@@ -323,5 +323,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/114847/1.0
 - name: wutface
   src: https://static-cdn.jtvnw.net/emoticons/v1/28087/1.0
+- name: youdontsay
+  src: https://static-cdn.jtvnw.net/emoticons/v1/134254/1.0
 - name: youwhy
   src: https://static-cdn.jtvnw.net/emoticons/v1/4337/1.0
